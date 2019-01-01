@@ -630,7 +630,7 @@ $\large y(2n)=y(2n+1)=x(n)$
 
 
 
-### 9. $x(n)$的DTFT为$X(e^{j\omega})​$,试求$x(-n)​$的DTFT。
+### 9. $x(n)$的DTFT为$X(e^{j\omega})$,试求$x(-n)​$的DTFT。
 
 
 
@@ -670,7 +670,7 @@ $\large y(2n)=y(2n+1)=x(n)$
 
 ### 的信号的频谱。
 
-![img](/Users/zhangwenwei/Desktop/review/dsp/07F843624662FBD46CD9FC9AD15F7FBE.jpg)
+![img](img/07F843624662FBD46CD9FC9AD15F7FBE.jpg)
 
 ### 12. 数字录音带(DAT)驱动器的采样频率为48kHz,而激光唱盘(CD)播放机
 
@@ -680,7 +680,7 @@ $\large y(2n)=y(2n+1)=x(n)$
 
 ### 系统。求L和M的最小可能值以及适当的滤波器$H(e^{j\omega})$完成这个转换。
 
-![](/Users/zhangwenwei/Desktop/review/dsp/34B584A321019C168645170B27469EA7.jpg)
+![](img/34B584A321019C168645170B27469EA7.jpg)
 
 | 解：                                                         |
 | ------------------------------------------------------------ |
@@ -696,7 +696,7 @@ $\large y(2n)=y(2n+1)=x(n)$
 
 ### 而不引入混叠。
 
-![img](/Users/zhangwenwei/Desktop/review/dsp/2BC4957FBEA2DC2C7FBB112A36BD48E9.jpg)
+![img](img/2BC4957FBEA2DC2C7FBB112A36BD48E9.jpg)
 
 
 
@@ -710,7 +710,7 @@ $\large y(2n)=y(2n+1)=x(n)$
 
 ###        即对于$|\Omega|>4000\pi rad/s,X_a(j\Omega)\equiv0$。
 
-![](/Users/zhangwenwei/Desktop/review/dsp/F4B4F6A95AC05F50845A6F725C7FDCA5.jpg)
+![](img/F4B4F6A95AC05F50845A6F725C7FDCA5.jpg)
 
 #### (1) 为使$y_a(t)$等于$x_a(t)$,应该对$M,T_1,T_2$有何约束?
 
@@ -859,5 +859,5 @@ x(n/r),       &   n=ir,   & i=0,1,\cdots,N-1\\
 
 #### (2) 若两路信号同时卷积，采样频率最高是多少？
 
-<h4 align="center">2018 &copy; 陈俊杰</h4>
+<h4 align="center">2018 &copy; junjc9</h4>
 

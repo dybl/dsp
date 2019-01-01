@@ -215,7 +215,7 @@
 
 ### 21. 对$x(n) (0\le n\le7)$和$y(n) (0\le n\le19)$分别作20点的DFT,
 
-### 得$X(k)$和$ $Y(k)$,$F(k)=X(k)Y(k) (0\le n\le19)$,$f(n)=IDFT[F(k)]$,
+### 得$X(k)$和$Y(k)$,$F(k)=X(k)Y(k) (0\le n\le19)$,$f(n)=IDFT[F(k)]$,
 
 ### n在___ 范围内时,$f(n) $是$x(n)$和$y(n)$的线性卷积
 
@@ -630,7 +630,7 @@ $\large y(2n)=y(2n+1)=x(n)$
 
 
 
-### 9. $x(n)$的DTFT为$X(e^{j\omega})$,试求$x(-n)​$的DTFT。
+### 9. $x(n)$的DTFT为$X(e^{j\omega})$,试求$x(-n)$的DTFT。
 
 
 

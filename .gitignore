@@ -1,8 +1,15 @@
+# pdf
 *.pdf
-/doc
-doc/
+
+# dir
+dsp/doc
+dsp/doc/
+
+# Microsoft Office file type
 *.doc
 *.docx
 *.ppt
 *.pptx
+
+# Apple MacOSX tmp file
 *.DS_Store

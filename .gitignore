@@ -13,3 +13,7 @@ dsp/doc/
 
 # Apple MacOSX tmp file
 *.DS_Store
+
+#excutable
+*.exe
+*.app

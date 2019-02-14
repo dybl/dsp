@@ -7,9 +7,9 @@
 - [x] Discrete Fourier Transform 离散傅里叶变换
 - [x] Fast Fourier Transform 快速傅里叶变换
 - [x] Z Transform Z变换
-- [ ] Laplace Transform 拉普拉斯变换
-- [ ] Infinite Impulse Response Filter 有限长单位脉冲响应滤波器
-- [ ] Finite Impulse Response Filter 无限长单位脉冲响应滤波器
+- [x] Laplace Transform 拉普拉斯变换
+- [x] Infinite Impulse Response Filter 有限长单位脉冲响应滤波器
+- [x] Finite Impulse Response Filter 无限长单位脉冲响应滤波器
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Fourier_series_square_wave_circles_animation.gif)
 

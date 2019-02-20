@@ -2,7 +2,6 @@
 
 <h1 align="center">mysql-review</h1>
 
-[TOC]
 
 # 知识点
 
